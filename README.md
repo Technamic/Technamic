@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Technamic
 - 👀 I’m interested in Technology
 - 🌱 I’m currently learning How help the people
-- 💞️ I’m looking to collaborate on Future of Technology
+- 💞️ I’m looking to collaborate on Dynamism of Technology
 - 📫 How to reach me technamic@protonmail.com
 
 <!---
